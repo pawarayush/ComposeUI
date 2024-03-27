@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6824094215",
+    "project_id": "logincompose-5e287",
+    "storage_bucket": "logincompose-5e287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6824094215:android:edfdb86c088859d90218a2",
+        "android_client_info": {
+          "package_name": "com.example.logincompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIRANpYlK33TD1t79j1HKWKyUBoigFyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
